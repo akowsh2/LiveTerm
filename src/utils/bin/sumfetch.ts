@@ -10,7 +10,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
    @@                               @@       ${config.name}
   @@                         @@@     @@     ﰩ ${config.ps1_hostname}
  @@        @@@                        @@     <u><a href="${config.resume_url}" target="_blank">Resume</a></u>
- @@                                   @@    爵 <u><a href="${config.social.github}" target="_blank">Projects</a></u>
+ @@                                   @@    爵 <u><a href="https://github.com/${config.social.github}?tab=repositories" target="_blank">Projects</a></u>
  @@             .@@@@@@@@@@.          @@    -----------
   @@           @@          @@        @@    
    @@           @@        @@        @@       CONTACT 
